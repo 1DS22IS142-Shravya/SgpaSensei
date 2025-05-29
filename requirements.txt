@@ -1,0 +1,24 @@
+streamlit
+langchain
+langchain_community
+
+# LangChain Integrations & Components
+langchain_chroma
+chromadb
+langchain_google_genai
+langchain_groq
+langchain_huggingface
+langchain_openai
+langchain_text_splitters
+
+# Data Handling & Utils
+pandas
+openpyxl
+requests
+tqdm
+
+# PDF Processing
+PyMuPDF
+
+# Reporting (if needed)
+reportlab
